@@ -1,8 +1,8 @@
-# **CI/CD Java Spring Boot Application**
+# **CI/CD Java Spring Boot Application 🧑‍🚀**
 
 **Developed & Maintained Automated CI/CD WorkFlows of the Java Based Spring Boot Web Application. By Using the Jenkins & Open Soruce Tools.** 
 
-## **Tech Stack**
+## **Tech Stack 🚀**
 ***Following are the tools which are using in this project:-***
 
 - **Jenkins**
